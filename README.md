@@ -18,4 +18,4 @@ These are the basic hotkeys suited to my most common workflow. Feel free to chan
 
 
 ### Installation
-![Download](https://github.com/karmaral/quick-properties/releases/download/v0.1/quick-properties.py) the .py file and install it like any other addon.
+![Download](https://github.com/karmaral/quick-properties/releases/download/0.1/quick-properties.py) the .py file and install it like any other addon.
